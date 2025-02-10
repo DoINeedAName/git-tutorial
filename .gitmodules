@@ -1,3 +1,6 @@
 [submodule "Submodule"]
 	path = Submodule
 	url = ./Submodule
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/DoINeedAName/submodule
