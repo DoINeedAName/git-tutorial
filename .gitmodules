@@ -4,3 +4,6 @@
 [submodule "submodule"]
 	path = submodule
 	url = https://github.com/DoINeedAName/submodule
+[submodule "LibraryManagementSystem"]
+	path = LibraryManagementSystem
+	url = https://github.com/DoINeedAName/LibraryManagementSystem
